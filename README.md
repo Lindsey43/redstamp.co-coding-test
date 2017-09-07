@@ -1,9 +1,9 @@
 # redstamp.co-coding-test
 Code from a design based layout. 
-Here are somethings I did not get to in time. 
+ <br>Here are somethings I did not get to in time. 
 
-Things we want to see. 
-  responsive
-  minimum one SVG image working.
-  well written, scalable code
-  cross browser tested
+ Things we want to see. <br>
+ <br>responsive
+   <br>minimum one SVG image working.
+   <br>well written, scalable code
+   <br>cross browser tested
