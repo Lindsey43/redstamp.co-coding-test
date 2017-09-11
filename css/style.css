@@ -1,0 +1,401 @@
+body {
+  width: 600px;
+  height: 2200px;
+  background-color: #ffffff;
+  padding: 30px;
+}
+.rs-logo {
+  padding-left: 35px;
+}
+.rs-Newsletter-tips-highlightstory {
+  width: 600px;
+  background-color: #ffffff;
+}
+.Bitmap {
+  width: 509px;
+  height: 188px;
+  object-fit: contain;
+  padding-left: 42px;
+}
+.NewsletterGraphicPlaceholder {
+  width: 222px;
+  height: 190px;
+  object-fit: contain;
+  float: right;
+  display:inline-block;
+  vertical-align:bottom;
+  padding-right: 46px;
+}
+.View-in-your-browser {
+  width: 99px;
+  height: 13px;
+  font-family: AlrightSansLT;
+  font-size: 10px;
+  text-align: left;
+  color: #ec5447;
+  float: right;
+  padding-right: 48px;
+}
+.Summer-Newsletter {
+  width: 509px;
+  height: 90px;
+  font-family: TiemposText;
+  font-size: 44px;
+  line-height: 45px;
+  letter-spacing: -0.4px;
+  text-align: left;
+  color: #0a273c;
+  padding-left: 32px;
+}
+.z {
+  width: 273px;
+  height: 34px;
+  font-family: AlrightSansLT;
+  font-size: 15px;
+  line-height: 1.21;
+  text-align: left;
+  color: #85939e;
+  padding-left: 39px;
+}
+.rs-Newsletter-tips-highlightstory {
+  width: 600px;
+  height: 2200px;
+  background-color: #ffffff;
+}
+
+.Traction-Conference {
+  width: 208px;
+  height: 23px;
+  font-family: TiemposHeadline;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: left;
+  color: #0a273c;	
+}
+.Rectangle {
+  width: 600px;
+  background-color: #f7f8f9;
+  padding-top: 1px;
+  border: 1px  #d3d3d3;  
+}
+.All-the-things-you {
+  width: 291px;
+  height: 18px;
+  font-family: AlrightSansLT;
+  font-size: 14px;
+  text-align: center;
+  color: #0a273c;
+  padding-left: 18px;
+}
+.-Tips-for-Action {
+  width: 199px;
+  height: 18px;
+  font-family: TiemposText;
+  font-size: 25px;
+  font-weight: 500;
+  text-align: center;
+  color: #0a273c;
+  padding-left: 10px;
+}
+
+.Rectangle-3 {
+  width: 509px;
+  height: 300px;
+  background-color: #ffffff;
+}
+
+#TRACTION {
+  width: 53px;
+  height: 9px;
+  font-family: AlrightSansLT;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #60cbe2;
+  padding-right: 155px;
+}	
+#Traction1{
+  width: 53px;
+  height: 9px;
+  font-family: AlrightSansLT;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #60cbe2;
+  padding-right: 155px;
+  padding-top: 20px;
+} 
+.Hi-There-Were-stil {
+  width: 330px;
+  height: 164px;
+  opacity: 0.73;
+  font-family: AlrightSansLT;
+  font-size: 14px;
+  line-height: 1.36;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #0a273c;
+  padding-left: 113px;
+}
+
+.Hi-There-Were-stil .text-style-1 {
+  color: #ec5447;
+}
+.Rectangle-4-1 {
+  width: 510px;
+  height: 136px;
+  background-color: #ffffff;
+  border: solid 1px #eceef0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-bottom: 10px;
+}
+.Rectangle-3-Copy {
+  width: 510px;
+  height: 136px;
+  background-color: #ffffff;
+  border: solid 1px #eceef0;
+}
+
+.Investing-for-brand {
+  width: 280px;
+  height: 20px;
+  font-family: AlrightSansLT;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: -0.5px;
+  text-align: left;
+  color: #0a273c;
+  padding-top: 10px;
+  padding-left: 152px;
+}
+.Zapier-is-an-incredi {
+  width: 320px;
+  height: 32px;
+  font-family: AlrightSansLT;
+  font-size: 12px;
+  text-align: left;
+  color: #85939e;
+  padding-right: 25px;
+  padding-left: 151px;
+  padding-top: 15px;
+}
+.read-more {
+  width: 61px;
+  height: 13px;
+  font-family: AlrightSansLT;
+  font-size: 10px;
+  font-weight: 500;
+  text-align: left;
+  color: #60cbe2;
+  padding-left: 152px;
+  padding-top: 10px;
+}
+.Social-Media-Trends {
+  width: 280px;
+  height: 20px;
+  font-family: AlrightSansLT;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: -0.5px;
+  text-align: left;
+  color: #0a273c;
+  padding-top: 10px;
+  padding-left: 152px;
+}
+.growth-icon {
+  width: 57px;
+  height: 57px;
+  object-fit: contain;
+}
+
+.Your-favourite-blog {
+  width: 302px;
+  height: 32px;
+  font-family: TiemposText;
+  font-size: 25px;
+  font-weight: 500;
+  text-align: center;
+  color: #0a273c;
+  padding-top: 6px;
+  padding-right: 46px;
+}
+
+.Our-readers-have-fou {
+  width: 376px;
+  height: 18px;
+  font-family: AlrightSansLT;
+  font-size: 14px;
+  text-align: center;
+  color: #0a273c;
+  padding-right: 47px;
+}
+.favourite {
+  width: 375px;
+  padding-left: 100px;
+}
+
+.Rectangle-5 {
+  width: 600px;
+  height: 56px;
+  background-color: #ec5447;
+}
+
+.We-now-do-CRO-let-u {
+  height: 19px;
+  font-family: AlrightSansLT;
+  font-size: 14px;
+  line-height: 1.36;
+  text-align: center;
+  color: #ffffff;
+  padding: 10px;
+  padding-left: 0;
+  padding-top: 18px;
+}
+
+.We-now-do-CRO-let-u .text-style-1 {
+  font-weight: 500;
+}
+
+.Rectangle-6{
+width: 600px;
+height: 80px;
+background-color: #ffffff;
+}
+
+.Made-in-Canada {
+  width: 108px;
+  height: 35px;
+  opacity: 0.5;
+  font-family: AlrightSansLT;
+  font-size: 14px;
+  color: #85939e;
+  padding-left: 25px;
+}
+
+.Made-in-Canada .text-style-1 {
+  font-weight: bold;
+}
+
+.canada {
+  width: 14px;
+  height: 18px;
+  object-fit: contain;
+  padding-right: 234px;
+}
+
+.linkedin-icon {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+}
+.instagram-icon {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+  padding-right: 30px;
+}
+.twitter-icon {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+}
+.facebook-icon {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+}
+.Line-Copy-3 {
+  width: 600px;
+  height: 3px;
+  border: solid 1px #eceef0;
+}
+
+.inlineTable {
+    display: inline-block;
+    border: 0;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    padding-top: 25px;
+        }
+.Red-Stam {
+  width: 315px;
+  height: 16px;
+  opacity: 0.5;
+  font-family: AlrightSansLT;
+  font-size: 12px;
+  text-align: left;
+  color: #85939e;
+}
+
+.Fill-7 {
+  width: 31px;
+  height: 29px;
+padding-top: 21px;
+padding-bottom: 68px;
+}
+
+.Takeaway-from-Tracti {
+  width: 212px;
+  height: 22px;
+  font-family: TiemposHeadline;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.38;
+  text-align: left;
+  color: #0a273c;
+}
+.We-learned-so-much {
+  width: 212px;
+  height: 90px;
+  opacity: 0.73;
+  font-family: AlrightSansLT;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: left;
+  color: #0a273c;
+  display: inline-block;
+}
+.Rectangle-3-Copy-2 {
+  width: 242px;
+  height: 275px;
+  background-color: #ffffff;
+  border: solid 1px #eceef0;
+}
+
+.rs-blog-illustration-traction {
+  width: 240px;
+  height: 98px;
+  object-fit: contain;
+}
+
+.rs-blog-automationmadeeasy_1024 {
+  width: 240px;
+  height: 98.6px;
+  object-fit: contain;
+}
+
+
+#wrapper {
+  display: table;
+ width: 510px;
+  height: 136px;
+  background-color: #ffffff;
+  padding-bottom: 25px;
+}
+#row {
+  display: table;
+  width: 500px;
+}
+
+#first {
+  display: table-cell;
+  background-color: red;
+  background-color: #ffffff;
+}
+
+#second {
+  display: table-cell;
+  background-color: blue;
+  background-color: #ffffff;
+}
